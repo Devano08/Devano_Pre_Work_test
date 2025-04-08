@@ -50,3 +50,6 @@ The extracted data will be saved as a structured dataset containing:
   - Emails
   
   - Additional Links
+
+Link Video Walktrough : https://youtu.be/BDYjhb7ZA4g?si=bEtYwQ9D5cn0BrwP
+Link Resume : https://drive.google.com/drive/folders/1zl2hrP1DqQJtxQZA0bDM8IVM38c9cWap?usp=sharing
